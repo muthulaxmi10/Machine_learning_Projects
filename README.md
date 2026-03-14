@@ -36,19 +36,17 @@ The goal of this project is to:
 ## 📂 Project Structure
 
 ```
-Traffic-Sign-CNN/
-│
-├── data/
-│   ├── Meta/
-│   ├── Train/
-│   ├── Test/
-│   ├── Meta.csv
-│   ├── Train.csv
-│   └── Test.csv
+Project Structure
+
+traffic-sign-recognition
 │
 ├── traffic-sign-recognition-using-cnn.ipynb
 ├── traffic_classifier.h5
-└── README.md
+├── Train.csv
+├── Test.csv
+├── Meta.csv
+├── README.md
+└── LICENSE
 ```
 
 ---
