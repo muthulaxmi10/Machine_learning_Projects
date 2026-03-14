@@ -34,10 +34,6 @@ The goal of this project is to:
 ---
 
 ## 📂 Project Structure
-
----
-Project Structure
-
 Machine_learning_Projects
 │
 ├── data
@@ -53,10 +49,6 @@ Machine_learning_Projects
 │
 ├── README.md
 └── LICENSE
-
-
-
----
 
 ## 🔄 Project Workflow
 
