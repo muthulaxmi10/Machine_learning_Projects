@@ -35,18 +35,25 @@ The goal of this project is to:
 
 ## 📂 Project Structure
 
-
+---
 Project Structure
 
-traffic-sign-recognition
+Machine_learning_Projects
 │
-├── traffic-sign-recognition-using-cnn.ipynb
-├── traffic_classifier.h5
-├── Train.csv
-├── Test.csv
-├── Meta.csv
+├── data
+│   ├── Train.csv
+│   ├── Test.csv
+│   └── Meta.csv
+│
+├── notebook
+│   └── traffic-sign-recognition-using-cnn.ipynb
+│
+├── model
+│   └── traffic_classifier.h5
+│
 ├── README.md
 └── LICENSE
+
 
 
 ---
