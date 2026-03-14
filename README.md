@@ -34,7 +34,8 @@ The goal of this project is to:
 ---
 
 ## 📂 Project Structure
-Machine_learning_Projects
+```
+traffic-sign-recognition
 │
 ├── data
 │   ├── Train.csv
@@ -49,6 +50,8 @@ Machine_learning_Projects
 │
 ├── README.md
 └── LICENSE
+```
+
 
 ## 🔄 Project Workflow
 
