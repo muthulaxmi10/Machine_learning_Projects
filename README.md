@@ -161,6 +161,6 @@ traffic-sign-recognition-using-cnn.ipynb
 
 ## 👩‍💻 Author
 
-**Your Name**
+**Muthulaxmi Lakhani**
 
 Aspiring Data Scientist / AI Engineer
