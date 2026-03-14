@@ -39,8 +39,10 @@ The goal of this project is to:
 Traffic-Sign-CNN/
 │
 ├── data/
+│   ├── Meta/
 │   ├── Train/
 │   ├── Test/
+│   ├── Meta.csv
 │   ├── Train.csv
 │   └── Test.csv
 │
