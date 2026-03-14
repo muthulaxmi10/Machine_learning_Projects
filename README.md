@@ -117,15 +117,16 @@ The trained model successfully classifies traffic sign images and demonstrates t
 
 ---
 
-## 💾 Model Saving
+## Model File
 
-The trained model is saved as:
+The trained CNN model is saved as:
 
-```
 traffic_classifier.h5
-```
 
-This allows the model to be reused without retraining.
+You can load the model using:
+
+from tensorflow.keras.models import load_model
+model = load_model("traffic_classifier.h5")
 
 ---
 
